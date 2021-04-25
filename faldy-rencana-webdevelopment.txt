@@ -5,6 +5,5 @@ RENCANA WEB DEVELOPMENT
   *Bootstrap
   *Materialize
 -JavaScript
- *Framework JavaScript
--Python
+-PHP Framework
 -Version Control System
