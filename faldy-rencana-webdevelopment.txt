@@ -6,4 +6,5 @@ RENCANA WEB DEVELOPMENT
   *Materialize
 -JavaScript
  *Framework JavaScript
+-Python
 -Version Control System
